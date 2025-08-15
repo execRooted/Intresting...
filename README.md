@@ -15,7 +15,6 @@
 
 ```
 git clone https://github.com/execRooted/Intresting....git
-
 ```
 
 2. **Install it:**
