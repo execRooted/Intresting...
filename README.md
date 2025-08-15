@@ -1,7 +1,7 @@
 # *Intresting...*
 
 
-<h2>Wanna know what this program does? Run it.</h3>
+<h2>Oh, you wanna know what this program does? Run it.</h2>
 
 > For Linux Systems.
 
