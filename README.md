@@ -45,6 +45,9 @@ Enjoy. Or should I even say that?
   ``` 
     sudo ./uninstaller.sh
   ```
+
+*(Why would you even want to uninstall such a wonderful program?!)*
+
 ---
 
 *C-Can I run it in Windows?* <br>
