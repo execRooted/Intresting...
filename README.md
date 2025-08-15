@@ -29,7 +29,7 @@ chmod +x installer.sh
 sudo ./installer.sh
 ```
 
-4. **Run it:**
+3. **Run it:**
 
 *You run it by typing hi in the terminal*
 
