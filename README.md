@@ -52,7 +52,7 @@ Enjoy. Or should I even say that?
 
 *C-Can I run it in Windows?* <br>
 *My response is*  * drumroll * <br>
-**Nah lil bro** <br>
+**Nah lil bro.** <br>
 *(use Linux :3 (Arch preferably))*<br>
 
 ---
